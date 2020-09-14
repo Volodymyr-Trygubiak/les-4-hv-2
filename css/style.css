@@ -131,8 +131,7 @@ p:after {
 
 p:before {
     left: 0;
-    top: 50%;
-    transform: translateY(-50%);
+    top: 0;
     width: 18px;
     height: 18px;
     border: 1px solid #A5A5A5;
@@ -143,7 +142,7 @@ p:before {
 p:after {
     display: none;
     left: 6px;
-    top: 2px;
+    top: 1px;
     width: 4px;
     height: 10px;
     border-right: 4px solid #424242;
